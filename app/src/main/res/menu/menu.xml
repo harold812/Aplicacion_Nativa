@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Inicio"
+        android:orderInCategory="100"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/Formulario"
+        android:orderInCategory="100"
+        android:title="Formulario" />
+    <item
+        android:id="@+id/umb"
+        android:orderInCategory="100"
+        android:title="Umb"/>
+    <item
+        android:id="@+id/busqueda"
+        android:orderInCategory="100"
+        android:title="busqueda" />
+
+</menu>
